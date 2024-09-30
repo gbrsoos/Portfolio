@@ -14,6 +14,6 @@ Welcome to my portfolio! Please note that I am still in the early stage of the j
 ## SQL
 | Project Link                                                                                       | Area of Analysis                         | Project Description                                                                                                                       |
 |----------------------------------------------------------------------------------------------------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| [8-Week SQL Challenge](https://github.com/gbrsoos/8WeekSQLChallenge)                                           | Data analysis, data cleaning, data transformation           | This repository contains my weekly solutions on Danny Ma's [#8WeeksSQLChallenge](https://8weeksqlchallenge.com/). This is a thorough weekly challenge that covers all the basic areas SQL has to offer. The repository is by far not complete yet, this is what I am currently working on. |
+| [8-Week SQL Challenge](https://github.com/gbrsoos/8WeekSQLChallenge)                                           | Data analysis, data cleaning, data transformation           | This repository contains my weekly solutions on Danny Ma's [#8WeekSQLChallenge](https://8weeksqlchallenge.com/). This is a thorough weekly challenge that covers all the basic areas SQL has to offer. The repository is by far not complete yet, this is what I am currently working on. |
 
 
