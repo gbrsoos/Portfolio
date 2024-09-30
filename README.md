@@ -6,11 +6,8 @@ Welcome to my portfolio! Please note that I am still in the early stage of the j
 
 # Projects
 ## Python
-| Project Link                                              | Area                                   | Libraries              | Project Description                                                                  |
-|-----------------------------------------------------------|----------------------------------------|------------------------|--------------------------------------------------------------------------------------|
-| [Wordle Solver](https://github.com/gbrsoos/Wordle-Solver) | Statistics,<br>Programming,<br>Entropy | numpy,<br>pandas         The project's goal was to create an algorithm that provides support to solve the<br>      
-                                                                                                                                daily [Wordle](https://www.nytimes.com/games/wordle/index.html) Challenge. <br>To do  
-                                                                                                                                so,  I implemented an entropy-based solution that gives the most optimal guess <br>       
-                                                                                                                                based on the game's feedback on the most recently guessed word.
-|
+| Project Link                                                                                       | Area                         | Libraries                | Project Description                                                                                                                       |
+|----------------------------------------------------------------------------------------------------|------------------------------|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| [Wordle Solver](https://github.com/gbrsoos/Wordle-Solver)                                           | Programming, Statistics, Entropy | numpy, pandas            | The project's goal was to create an algorithm that provides support to solve the daily [Wordle Challenge](https://www.nytimes.com/games/wordle/index.html). To do so, I implemented an entropy-based solution that gives the most optimal guess based on the game's feedback on the most recently guessed word. |
+
 
